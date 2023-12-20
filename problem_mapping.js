@@ -65,7 +65,7 @@ problem_mapping = {
                 "passed": 0,
                 "total": 10000
             },
-            "Python: closest_int_same_weight.py": { 
+            "Python: closest_int_same_weight.py": {
                 "passed": 0,
                 "total": 10000
             }
@@ -1648,7 +1648,7 @@ problem_mapping = {
                 "total": 1001
             },
             "Python: h_index.py": {
-                "passed": 0,
+                "passed": 1001,
                 "total": 1001
             }
         },
